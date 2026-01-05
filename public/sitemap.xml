@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://goshaders.com/your-first-shader/index.html</loc>
+    <loc>//localhost:1313/your-first-shader/index.html</loc>
     <lastmod>2026-01-05T16:34:22+01:00</lastmod>
   </url>
   <url>
-    <loc>https://goshaders.com/your-first-shader/setting-up/index.html</loc>
+    <loc>//localhost:1313/your-first-shader/setting-up/index.html</loc>
     <lastmod>2026-01-05T16:34:22+01:00</lastmod>
   </url>
   <url>
-    <loc>https://goshaders.com/index.html</loc>
+    <loc>//localhost:1313/index.html</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://goshaders.com/categories/index.html</loc>
+    <loc>//localhost:1313/categories/index.html</loc>
   </url>
   <url>
-    <loc>https://goshaders.com/tags/index.html</loc>
+    <loc>//localhost:1313/tags/index.html</loc>
   </url>
 </urlset>

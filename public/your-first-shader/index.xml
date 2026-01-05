@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Your First Shader :: goshaders</title>
-    <link>https://goshaders.com/your-first-shader/index.html</link>
+    <link>//localhost:1313/your-first-shader/index.html</link>
     <description>this first chapter will be divided in two:&#xA;Intialising your godot project and setting up our scene: Setting Up Writing your first godot shader: Setting Up</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jan 2026 16:34:22 +0100</lastBuildDate>
-    <atom:link href="https://goshaders.com/your-first-shader/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/your-first-shader/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up</title>
-      <link>https://goshaders.com/your-first-shader/setting-up/index.html</link>
+      <link>//localhost:1313/your-first-shader/setting-up/index.html</link>
       <pubDate>Mon, 05 Jan 2026 16:34:22 +0100</pubDate>
-      <guid>https://goshaders.com/your-first-shader/setting-up/index.html</guid>
+      <guid>//localhost:1313/your-first-shader/setting-up/index.html</guid>
       <description>Creating the project Start by launching godot and creating a new project&#xA;Note The choice of the renderer is not really important for this tutorial BUT if you plan to use compute shaders in the futur you should use Forward+ or Mobile otherwise using Compatibility is fine more of this in the godot documentation.</description>
     </item>
   </channel>

@@ -2,3 +2,6 @@ theme = 'hugo-theme-relearn'
 baseURL = ''
 languageCode = 'en-us'
 title = 'goshaders'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
