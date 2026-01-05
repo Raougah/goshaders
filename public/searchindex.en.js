@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "this first chapter will be divided in two:\nIntialising your godot project and setting up our scene: Setting Up Writing your first godot shader: Setting Up",
     "tags": [],
     "title": "Your First Shader",
-    "uri": "/goshaders/your-first-shader/index.html"
+    "uri": "/your-first-shader/index.html"
   },
   {
     "breadcrumb": "introduction \u003e Your First Shader",
@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "Creating the project Start by launching godot and creating a new project\nNote The choice of the renderer is not really important for this tutorial BUT if you plan to use compute shaders in the futur you should use Forward+ or Mobile otherwise using Compatibility is fine more of this in the godot documentation.",
     "tags": [],
     "title": "Setting Up",
-    "uri": "/goshaders/your-first-shader/setting-up/index.html"
+    "uri": "/your-first-shader/setting-up/index.html"
   },
   {
     "breadcrumb": "",
@@ -21,7 +21,7 @@ var relearn_searchindex = [
     "description": "What is Goshaders? Goshaders is a series of articles about the basics of shaders in godot, It will be primarly focused on 2D shaders basics with some practical examples and uses.\nImportant I assume some familiarity with the godot engine and some programming basics like variables conditions functions.\nWhat are shaders? Shaders are small programs that runs on a GPU we use them to manipulate how graphics are rendered, It can be used for various effects such as, grass or leafs fluttering in the wind, glitch efftects, a slash effect or any other special graphical modification.",
     "tags": [],
     "title": "introduction",
-    "uri": "/goshaders/index.html"
+    "uri": "/index.html"
   },
   {
     "breadcrumb": "introduction",
@@ -29,7 +29,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/goshaders/categories/index.html"
+    "uri": "/categories/index.html"
   },
   {
     "breadcrumb": "introduction",
@@ -37,6 +37,6 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/goshaders/tags/index.html"
+    "uri": "/tags/index.html"
   }
 ]
