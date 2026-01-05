@@ -1,0 +1,4 @@
+theme = 'hugo-theme-relearn'
+baseURL = ''
+languageCode = 'en-us'
+title = 'goshaders'
