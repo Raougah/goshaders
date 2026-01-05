@@ -1,5 +1,5 @@
 theme = 'hugo-theme-relearn'
-baseURL = ""
+baseURL = "http://raougah.github.io/goshaders/"
 relativeURLs = "True"
 languageCode = 'en-us'
 title = 'goshaders'
