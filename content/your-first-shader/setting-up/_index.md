@@ -19,7 +19,7 @@ Start by launching godot and creating a new project
 
 ![creating-color-rect](creating_color_rect.png)
 
-2. Add a new ressource to your project of and choose shader then open the shader editor
+2. Add a new **ressource** to your project **under the file explorer** of and choose **shader** then open the shader editor
 
 ![creating-ressource](creating_ressource.png)
 
@@ -82,7 +82,7 @@ void fragment() {
 
 shader effects are applied on vertices or pixels, the **vertex()** function applies the effect on every vertex of the object and **fragment** applies it on every pixel.
 
-for our first shader we'll try to change our rectangle color for this we need to use the **COLOR** property and change our shader type to canvas_item as follows:
+for our first shader we'll try to change our rectangle color for this we need to use the **COLOR** property and **change our shader type to canvas_item** as follows:
 
 ```glsl {wrap="true"}
 shader_type canvas_item;

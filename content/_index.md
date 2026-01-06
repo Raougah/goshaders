@@ -3,7 +3,7 @@ title = "introduction"
 type = "home"
 date = 2024-12-31
 +++
-## What is Goshaders?
+### What is Goshaders?
 Goshaders is a series of articles about the basics of shaders in godot, It will be primarly focused on 2D shaders basics with some practical examples and uses.
 
 > [!IMPORTANT]
