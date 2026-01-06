@@ -1,6 +1,7 @@
 theme = 'hugo-theme-relearn'
-baseURL = "/"
-relativeURLs = "True"
+baseURL = "https://raougah.github.io/goshaders/"
+relativeURLs = false
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'goshaders'
 [caches]
