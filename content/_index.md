@@ -16,7 +16,7 @@ Shaders are fast really fast in a similar way to normal code, shaders are sets o
 
 
 > [!WARNING]
-> Coding along is important to get a grip on many concepts, it's preferrable to try and experiment alone on every new thing you discover to master those concepts
+> Coding along is important to get a grip on many concepts, it's preferrable to try and experiment alone on every new thing you discover to master those concepts.
 
 
 
